@@ -10,3 +10,4 @@ The Weather Agent template showcases how to:
 - Implement weather-related workflows
 - Handle user queries about weather conditions
 - Integrate with OpenAI's API for natural language processing
+  ...
